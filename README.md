@@ -136,24 +136,6 @@ https://thaycarv.github.io/escuta-operacoes/
 
 ---
 
-## Como utilizo IA nos projetos
-
-Utilizo IA Generativa como ferramenta de apoio para estruturar ideias, transformar problemas operacionais em fluxos, organizar requisitos, revisar inconsistências, testar cenários e documentar decisões.
-
-A proposta dos meus projetos não é demonstrar domínio de programação, mas sim mostrar aplicação prática de tecnologia, clareza de problema, visão de processo e capacidade de estruturar soluções digitais com apoio de IA.
-
----
-
-## Em desenvolvimento
-
-- Aprimoramento dos protótipos Prioriza, Implanta e Escuta
-- Organização do portfólio no GitHub
-- Estudos em Power BI
-- Noções iniciais de lógica, sistemas e documentação técnica
-- Aplicações práticas de IA Generativa em operações e processos
-
----
-
 ## Contato
 
 LinkedIn: https://www.linkedin.com/in/thaycc 
