@@ -6,8 +6,6 @@ Minha experiência passa por tecnologia, varejo, setor público e operação pr�
 
 Atualmente, utilizo IA Generativa para transformar problemas operacionais em protótipos, organizar requisitos, estruturar fluxos, testar cenários e documentar soluções.
 
-Meu foco não é me posicionar como desenvolvedora, mas como uma profissional de operações que utiliza tecnologia e IA para estruturar problemas, organizar informações e criar soluções práticas.
-
 ---
 
 ## Formação e base profissional
@@ -35,7 +33,7 @@ Scrum | Kanban | BPM | PDCA | 5W2H | Priorização de Demandas | Mapeamento de F
 
 **Ferramentas**
 
-Excel | PowerPoint | Trello | Jira | Zendesk | CRM | Power BI em andamento | GitHub
+Excel | PowerPoint | Trello | Jira | Zendesk | CRM | SQL | Power BI em andamento | GitHub
 
 **IA aplicada**
 
@@ -103,7 +101,7 @@ Apoiar equipes na estruturação de implantações, reduzindo perda de informaç
 IA Generativa | Implantação de Sistemas | Projetos | Backlog | Status | Acompanhamento Operacional
 
 **Acesse:**  
-coloque-o-link-do-implanta
+https://thaycarv.github.io/implanta-operacoes/
 
 ---
 
@@ -134,7 +132,7 @@ Transformar informações qualitativas em insumos organizados para análise, ide
 IA Generativa | Feedbacks | Experiência do Usuário | Análise Qualitativa | Processos | Melhoria Contínua
 
 **Acesse:**  
-coloque-o-link-do-escuta
+https://thaycarv.github.io/escuta-operacoes/
 
 ---
 
@@ -156,20 +154,8 @@ A proposta dos meus projetos não é demonstrar domínio de programação, mas s
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Thayâne GitHub stats](https://github-readme-stats.vercel.app/api?username=thaycarv&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaycarv&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
 ## Contato
 
-LinkedIn: coloque-seu-link-aqui  
+LinkedIn: https://www.linkedin.com/in/thaycc 
 GitHub: https://github.com/thaycarv  
-Portfólio Prioriza: https://thaycarv.github.io/prioriza-operacoes
+
