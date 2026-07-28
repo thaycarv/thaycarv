@@ -1,47 +1,66 @@
-## Sobre mim
+<div align="center">
 
-Sou Engenheira de Produção, com trajetória em operações, projetos, melhoria contínua, indicadores, SLAs, dashboards, backlog e implantação de sistemas.
+# Olá! Eu sou a Thayâne Carvalho 💻📈
 
-Minha experiência passa por tecnologia, varejo, setor público e operação própria, sempre com foco em organização de fluxos, acompanhamento de demandas, estruturação de processos e melhoria da previsibilidade operacional.
+### Operações | IA Aplicada
 
-Atualmente, utilizo IA Generativa para transformar problemas operacionais em protótipos, organizar requisitos, estruturar fluxos, testar cenários e documentar soluções.
+Engenheira de Produção com experiência em operações, processos, projetos, melhoria contínua e implantação de sistemas.  
+Atualmente desenvolvendo protótipos autorais com IA Generativa aplicada à organização de demandas, fluxos operacionais e apoio à tomada de decisão.
+
+Florianópolis, SC | Brasil
+
+</div>
 
 ---
 
-## Formação e base profissional
+## Sobre mim
 
-- Engenharia de Produção
+Sou Engenheira de Produção, com trajetória em operações, processos, projetos, melhoria contínua, indicadores, backlog, SLAs, dashboards e implantação de sistemas.
+
+Minha experiência passa por tecnologia, varejo, setor público e operação própria, sempre com foco em organização de fluxos, acompanhamento de demandas, análise de processos e melhoria da previsibilidade operacional.
+
+Atualmente, venho desenvolvendo protótipos autorais com apoio de IA Generativa. Meu foco é me posicionar como uma profissional de operações que utiliza tecnologia e inteligência artificial para estruturar problemas, organizar informações, testar soluções e documentar aprendizados.
+
+---
+
+## Áreas de atuação e interesse
+
 - Operações e processos
-- Gestão de projetos
 - Melhoria contínua
+- Gestão de projetos
 - Implantação de sistemas
 - Gestão de backlog
+- Priorização de demandas
 - Indicadores, SLAs e dashboards
+- Organização de fluxos operacionais
 - IA Generativa aplicada a operações
+- Documentação de processos
+- Apoio à tomada de decisão
+- Produto e operações digitais
 
 ---
 
 ## Ferramentas e conhecimentos
 
-**Operações e processos**
-
+**Operações e gestão**  
 Gestão de Processos | Gestão de Projetos | Melhoria Contínua | Backlog | KPIs | SLAs | Dashboards | Implantação de Sistemas
 
-**Métodos e organização**
-
+**Métodos e organização**  
 Scrum | Kanban | BPM | PDCA | 5W2H | Priorização de Demandas | Mapeamento de Fluxos | Documentação
 
-**Ferramentas**
+**Ferramentas**  
+Excel | PowerPoint | Trello | Jira | Zendesk | CRM | SQL | Power BI | GitHub
 
-Excel | PowerPoint | Trello | Jira | Zendesk | CRM | SQL | Power BI em andamento | GitHub
-
-**IA aplicada**
-
+**IA aplicada**  
 IA Generativa | Prompting Estruturado | Estruturação de Fluxos com IA | Modelagem de Demandas | Apoio à Tomada de Decisão
 
 ---
 
 ## Projetos em destaque
+
+Protótipos autorais criados com apoio de IA Generativa, voltados à organização de demandas, melhoria de processos, análise de fluxos e apoio à tomada de decisão em contextos operacionais.
+
+---
 
 ### Prioriza
 
@@ -50,23 +69,15 @@ Protótipo criado para apoiar a modelagem, validação, roteamento e priorizaç�
 **Objetivo do projeto:**  
 Ajudar equipes a organizar demandas, reduzir ambiguidade, definir prioridades e melhorar a previsibilidade operacional.
 
-**Funcionalidades e estrutura:**
-
-- Organização de demandas operacionais
-- Validação de informações antes do encaminhamento
-- Roteamento de demandas por critérios definidos
-- Priorização com apoio de IA Generativa
-- Apoio à tomada de decisão e previsibilidade operacional
-
 **Meu papel no projeto:**
 
 - Estruturar o problema operacional
 - Definir regras de priorização e critérios de análise
-- Organizar fluxos de entrada, validação e roteamento
+- Organizar fluxos de entrada, validação e roteamento de demandas
 - Utilizar IA Generativa como apoio na criação do protótipo
 - Testar cenários de uso e documentar melhorias
 
-**Temas:**  
+**Principais temas:**  
 IA Generativa | Operações | Priorização | Processos | Fluxos | Tomada de decisão
 
 **Acesse:**  
@@ -81,23 +92,15 @@ Protótipo criado para apoiar a organização e o acompanhamento de processos de
 **Objetivo do projeto:**  
 Apoiar equipes na estruturação de implantações, reduzindo perda de informações, falhas de acompanhamento e falta de visibilidade sobre o andamento das demandas.
 
-**Funcionalidades e estrutura:**
-
-- Organização de etapas de implantação
-- Registro de responsáveis, status e pendências
-- Acompanhamento da evolução das demandas
-- Estruturação de informações para follow-up
-- Apoio à previsibilidade das entregas
-
 **Meu papel no projeto:**
 
 - Estruturar o fluxo de implantação a partir de etapas operacionais
 - Organizar campos de acompanhamento, status, responsáveis e pendências
 - Definir critérios para controle de evolução das demandas
 - Utilizar IA Generativa como apoio na criação e refinamento do protótipo
-- Testar cenários de uso relacionados à gestão de implantação
+- Testar cenários de uso relacionados à gestão de implantação e acompanhamento operacional
 
-**Temas:**  
+**Principais temas:**  
 IA Generativa | Implantação de Sistemas | Projetos | Backlog | Status | Acompanhamento Operacional
 
 **Acesse:**  
@@ -110,15 +113,7 @@ https://thaycarv.github.io/implanta-operacoes/
 Protótipo criado para apoiar a coleta, organização e análise de feedbacks, manifestações ou percepções de usuários, clientes ou equipes internas com apoio de IA Generativa.
 
 **Objetivo do projeto:**  
-Transformar informações qualitativas em insumos organizados para análise, identificação de padrões, priorização de melhorias e apoio à tomada de decisão.
-
-**Funcionalidades e estrutura:**
-
-- Coleta e organização de feedbacks
-- Classificação de informações qualitativas
-- Identificação de padrões e recorrências
-- Apoio à priorização de melhorias
-- Geração de insumos para análise operacional
+Transformar informações qualitativas em insumos mais organizados para análise, identificação de padrões, priorização de melhorias e apoio à tomada de decisão.
 
 **Meu papel no projeto:**
 
@@ -128,16 +123,49 @@ Transformar informações qualitativas em insumos organizados para análise, ide
 - Utilizar IA Generativa como apoio na análise e estruturação dos dados
 - Testar cenários de uso voltados à melhoria de processos e experiência do usuário
 
-**Temas:**  
+**Principais temas:**  
 IA Generativa | Feedbacks | Experiência do Usuário | Análise Qualitativa | Processos | Melhoria Contínua
 
 **Acesse:**  
-https://thaycarv.github.io/escuta-operacoes/
+https://thaycarv.github.io/escuta-operacoes
+
+---
+
+## Como utilizo IA nos projetos
+
+Utilizo IA Generativa como ferramenta de apoio para transformar problemas operacionais em protótipos, organizar requisitos, estruturar fluxos, revisar inconsistências, testar cenários e documentar decisões.
+
+Meu foco está na clareza do problema, na lógica operacional, na experiência de uso e na aplicação prática da tecnologia em contextos reais de negócio.
+
+---
+
+## Minha base profissional aplicada aos projetos
+
+A forma como estruturo meus protótipos vem da minha experiência com operações e projetos, especialmente em:
+
+- Acompanhamento de projetos de implantação
+- Gestão de backlog e pipeline
+- Organização de requisitos e documentação
+- Indicadores, SLAs e dashboards
+- Comunicação com stakeholders
+- Melhoria contínua de processos
+- Priorização de demandas
+- Padronização de fluxos operacionais
+
+---
+
+## Em desenvolvimento
+
+- Aprimoramento dos protótipos Prioriza, Implanta e Escuta
+- Organização do portfólio no GitHub
+- Estudos em Power BI
+- Noções iniciais de lógica, sistemas e documentação técnica
+- Aplicações práticas de IA Generativa em operações e processos
 
 ---
 
 ## Contato
 
-LinkedIn: https://www.linkedin.com/in/thaycc 
+LinkedIn: https://www.linkedin.com/in/thaycc
 GitHub: https://github.com/thaycarv  
-
+Portfólio Prioriza: https://thaycarv.github.io/prioriza-operacoes
