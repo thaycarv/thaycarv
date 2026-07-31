@@ -2,9 +2,9 @@
 
 # Olá! Eu sou a Thayâne Carvalho 💻📈
 
-### Operações | IA Aplicada
+### Projetos | Processos | Operações | IA Aplicada
 
-Engenheira de Produção com experiência em operações, processos, projetos, melhoria contínua e implantação de sistemas.  
+Engenheira de Produção com experiência em projetos, operações, processos, melhoria contínua e implantação de sistemas.  
 Atualmente desenvolvendo protótipos autorais com IA Generativa aplicada à organização de demandas, fluxos operacionais e apoio à tomada de decisão.
 
 Florianópolis, SC | Brasil
@@ -15,7 +15,7 @@ Florianópolis, SC | Brasil
 
 ## Sobre mim
 
-Sou Engenheira de Produção, com trajetória em operações, processos, projetos, melhoria contínua, indicadores, backlog, SLAs, dashboards e implantação de sistemas.
+Sou Engenheira de Produção, com trajetória em projetos, operações, processos, melhoria contínua, indicadores, backlog, SLAs, dashboards e implantação de sistemas.
 
 Minha experiência passa por tecnologia, varejo, setor público e operação própria, sempre com foco em organização de fluxos, acompanhamento de demandas, análise de processos e melhoria da previsibilidade operacional.
 
@@ -25,9 +25,9 @@ Atualmente, venho desenvolvendo protótipos autorais com apoio de IA Generativa.
 
 ## Áreas de atuação e interesse
 
-- Operações e processos
-- Melhoria contínua
 - Gestão de projetos
+- Melhoria contínua
+- Operações e Processos
 - Implantação de sistemas
 - Gestão de backlog
 - Priorização de demandas
@@ -43,7 +43,7 @@ Atualmente, venho desenvolvendo protótipos autorais com apoio de IA Generativa.
 ## Ferramentas e conhecimentos
 
 **Operações e gestão**  
-Gestão de Processos | Gestão de Projetos | Melhoria Contínua | Backlog | KPIs | SLAs | Dashboards | Implantação de Sistemas
+Gestão de Projetos | Gestão de Processos | Melhoria Contínua | Backlog | KPIs | SLAs | Dashboards | Implantação de Sistemas
 
 **Métodos e organização**  
 Scrum | Kanban | BPM | PDCA | 5W2H | Priorização de Demandas | Mapeamento de Fluxos | Documentação
