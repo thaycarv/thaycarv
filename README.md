@@ -157,9 +157,7 @@ A forma como estruturo meus protótipos vem da minha experiência com operaçõe
 ## Em desenvolvimento
 
 - Aprimoramento dos protótipos Prioriza, Implanta e Escuta
-- Organização do portfólio no GitHub
 - Estudos em Power BI
-- Noções iniciais de lógica, sistemas e documentação técnica
 - Aplicações práticas de IA Generativa em operações e processos
 
 ---
