@@ -4,9 +4,6 @@
 
 ### Projetos | Processos | Operações | IA Aplicada
 
-Engenheira de Produção com experiência em projetos, operações, processos, melhoria contínua e implantação de sistemas.  
-Atualmente desenvolvendo protótipos autorais com IA Generativa aplicada à organização de demandas, fluxos operacionais e apoio à tomada de decisão.
-
 Florianópolis, SC | Brasil
 
 </div>
@@ -19,7 +16,7 @@ Sou Engenheira de Produção, com trajetória em projetos, operações, processo
 
 Minha experiência passa por tecnologia, varejo, setor público e operação própria, sempre com foco em organização de fluxos, acompanhamento de demandas, análise de processos e melhoria da previsibilidade operacional.
 
-Atualmente, venho desenvolvendo protótipos autorais com apoio de IA Generativa. Meu foco é me posicionar como uma profissional de operações que utiliza tecnologia e inteligência artificial para estruturar problemas, organizar informações, testar soluções e documentar aprendizados.
+Este GitHub funciona como meu laboratório de experimentos. Aqui registro projetos que surgem de situações que já vivenciei profissionalmente, desafios do cotidiano e temas que tenho interesse em explorar. Uso IA Generativa e outras ferramentas para investigar problemas, estruturar informações, testar abordagens, criar protótipos e documentar o que aprendo ao longo do processo.
 
 ---
 
@@ -166,4 +163,3 @@ A forma como estruturo meus protótipos vem da minha experiência com operaçõe
 
 LinkedIn: https://www.linkedin.com/in/thaycc
 GitHub: https://github.com/thaycarv  
-Portfólio Prioriza: https://thaycarv.github.io/prioriza-operacoes
