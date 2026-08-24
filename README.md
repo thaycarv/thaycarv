@@ -115,31 +115,6 @@ https://thaycarv.github.io/escuta-operacoes
 
 Utilizo IA Generativa como ferramenta de apoio para transformar problemas operacionais em protótipos, organizar requisitos, estruturar fluxos, revisar inconsistências, testar cenários e documentar decisões.
 
-Meu foco está na clareza do problema, na lógica operacional, na experiência de uso e na aplicação prática da tecnologia em contextos reais de negócio.
-
----
-
-## Minha base profissional aplicada aos projetos
-
-A forma como estruturo meus protótipos vem da minha experiência com operações e projetos, especialmente em:
-
-- Acompanhamento de projetos de implantação
-- Gestão de backlog e pipeline
-- Organização de requisitos e documentação
-- Indicadores, SLAs e dashboards
-- Comunicação com stakeholders
-- Melhoria contínua de processos
-- Priorização de demandas
-- Padronização de fluxos operacionais
-
----
-
-## Em desenvolvimento
-
-- Aprimoramento dos protótipos Prioriza, Implanta e Escuta
-- Estudos em Power BI
-- Aplicações práticas de IA Generativa em operações e processos
-
 ---
 
 ## Contato
