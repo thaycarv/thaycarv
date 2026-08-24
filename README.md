@@ -20,23 +20,6 @@ Este GitHub funciona como meu laboratório de experimentos. Aqui registro projet
 
 ---
 
-## Áreas de atuação e interesse
-
-- Gestão de projetos
-- Melhoria contínua
-- Operações e Processos
-- Implantação de sistemas
-- Gestão de backlog
-- Priorização de demandas
-- Indicadores, SLAs e dashboards
-- Organização de fluxos operacionais
-- IA Generativa aplicada a operações
-- Documentação de processos
-- Apoio à tomada de decisão
-- Produto e operações digitais
-
----
-
 ## Ferramentas e conhecimentos
 
 **Operações e gestão**  
