@@ -16,7 +16,7 @@ Sou **Engenheira de Produção** com atuação voltada para operações, gestão
 
 Minha trajetória passa por tecnologia, varejo, setor público e gestão operacional própria, sempre com foco em organizar fluxos de trabalho, eliminar gargalos e trazer previsibilidade para a operação.
 
-Minha atuação é centrada na **engenharia de processos, modelagem de problemas operacionais, desenho de regras de negócio e tomada de decisão estratégica**, utilizando tecnologia e IA como ferramentas para transformar desafios reais em soluções práticas e funcionais.
+Minha atuação é centrada na **engenharia de processos, modelagem de problemas operacionais, desenho de regras de negócio e tomada de decisão estratégica**, utilizando tecnologia e IA como ferramentas para transformar desafios em soluções práticas e testáveis.
 
 ---
 
