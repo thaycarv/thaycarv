@@ -36,45 +36,70 @@ Apoio Analítico à Tomada de Decisão | Prompting Estruturado | Diagnóstico de
 
 ---
 
-## Projetos & Soluções em Destaque
+## Projetos & Casos de Gestão
 
-Soluções que idealizei e estruturei para diagnosticar e resolver gargalos reais em operações, implantação de software, atendimento e governança de projetos.
-
----
-
-### Prioriza • Triagem e Priorização Operacional
-Focado em qualificar chamados e ordenar filas de trabalho de forma objetiva, o **Prioriza** substitui urgências subjetivas por critérios claros de impacto, risco e SLAs.  
-* **Como funciona:** A entrada de demandas passa por uma matriz de 100 pontos e 4 rotas de encaminhamento, separando fatos comprovados de suposições e identificando dados faltantes antes de acionar a equipe técnica.  
-* **Minha contribuição:** Modelagem das regras de negócio, cálculo ponderado de criticidade e definição das diretrizes de supervisão humana.  
-* **Competências:** Gestão de Operações • Triagem de Processos • Matrizes de Decisão • SLAs  
-👉 [Ver demonstração](https://thaycarv.github.io/prioriza-operacoes)
+Soluções que idealizei, estruturei e liderei a concepção ponta a ponta para resolver desafios críticos de governança, triagem operacional, implantação de sistemas e acompanhamento físico-financeiro.
 
 ---
 
-### Implanta • Onboarding & Gestão de Implantação
-Painel voltado para o acompanhamento contínuo da jornada de novos clientes, desde o fechamento comercial até a transição segura para Customer Success.  
-* **Como funciona:** Mapeia 9 etapas operacionais, rastreia pendências de homologação e exibe as causas de eventuais travamentos para garantir que o *go-live* só ocorra com conformidade técnica.  
-* **Minha contribuição:** Estruturação da jornada ponta a ponta, matriz de rastreabilidade entre requisitos e testes (UAT/QA) e geração de relatórios de status em um clique.  
-* **Competências:** Implantação de Software • Gestão de Projetos • Diagnóstico de Bloqueios • Go-live Gates  
-👉 [Ver demonstração](https://thaycarv.github.io/implanta-operacoes/)
+### Prioriza • Triagem e Priorização Operacional de Demandas
+
+Sistema desenhado para eliminar a subjetividade no atendimento a chamados operacionais e de suporte, transformando relatos despadronizados em filas de trabalho estruturadas por criticidade real.
+
+* **O Desafio Operacional:** A entrada caótica de chamados por múltiplos canais sem dados mínimos gerava disputas constantes sobre urgências, sobrecarga da equipe técnica e risco de subestimar incidentes graves relatados de forma superficial.
+* **Minhas decisões metodológicas:**
+  * **Matriz Ponderada de 100 Pontos:** Estruturação de 5 dimensões determinísticas (Urgência, Impacto, Risco, Abrangência e Dependências) para substituir a percepção subjetiva de quem abre o chamado por uma nota quantificável.
+  * **Regra de Urgência Máxima:** Definição de um gatilho de exceção para que chamados com risco crítico iniciem apuração técnica imediata, sem depender do acúmulo de pontos.
+  * **4 Rotas de Encaminhamento & Checagem Assistida:** Separação entre fatos comprovados e suposições, orientando a devolução imediata de solicitações incompletas antes de alocar esforço da equipe.
+  * **Supervisão Humana Obrigatória (*Human-in-the-loop*):** Garantia de que a inteligência analítica atue como suporte consultivo, mantendo a validação e o parecer final sob responsabilidade do analista.
+* **Competências:** Gestão de Operações • Modelagem de SLAs • Matrizes de Decisão • Governança de Processos  
+👉 [Acesse o ambiente interativo](https://thaycarv.github.io/prioriza-operacoes)
 
 ---
 
-### Escuta • Inteligência de Voz do Cliente (VoC)
-Plataforma que transforma avaliações e queixas fragmentadas em melhorias estruturais para a operação.  
-* **Como funciona:** Centraliza relatos de múltiplos canais (WhatsApp, apps de entrega, formulários) e confronta as queixas com os tempos reais de cada etapa da produção e logística, atuando na causa raiz dos atrasos ou erros.  
-* **Minha contribuição:** Integração da captura multicanal, correlação entre percepção do cliente e indicadores de processo, além da estruturação de planos de ação auditáveis.  
-* **Competências:** Voz do Cliente (VoC) • Análise de Causa Raiz • Melhoria Contínua • CSAT e NPS  
-👉 [Ver demonstração](https://thaycarv.github.io/escuta-operacoes)
+### Implanta • Gestão de Onboarding & Implantação Orientada a Valor
+
+Cockpit de acompanhamento projetado para conduzir a transição de novos clientes desde o fechamento comercial até o go-live e a passagem segura para a rotina de atendimento.
+
+* **O Desafio Operacional:** A falta de alinhamento entre as áreas de vendas, implantação e suporte causava perda frequente de contexto técnico, retrabalho em parametrizações e viradas de chave precipitadas com pendências críticas não resolvidas.
+* **Minhas decisões metodológicas:**
+  * **Jornada Estruturada em 9 Etapas:** Mapeamento de todo o ciclo de vida da implantação, estabelecendo critérios objetivos de entrada e saída para cada fase.
+  * **Rastreabilidade de Requisitos (DRN vs. QA/UAT):** Conexão direta entre os requisitos contratados e os testes de homologação, assegurando evidências de conformidade antes de avançar de etapa.
+  * **Diagnóstico de Causa Raiz de Bloqueios:** Estruturação de um mecanismo visual para categorizar os motivos de travamento em cada conta (cliente, produto, integração ou infraestrutura).
+  * **Gates de Qualidade & Status Report Executivo:** Definição de critérios determinísticos para autorização do go-live e geração de relatórios de status consolidados em um clique para a liderança.
+* **Competências:** Implantação de Software • Gestão de Projetos • Rastreabilidade de Escopo • Diagnóstico de Bloqueios • Gates de Go-live  
+👉 [Acesse o ambiente interativo](https://thaycarv.github.io/implanta-operacoes/)
 
 ---
 
-### RadarSocial • Governança & Controle Físico-Financeiro
-Cockpit executivo desenhado para monitorar o ritmo de execução e o equilíbrio orçamentário em projetos de impacto socioambiental e inovação.  
-* **Como funciona:** Conecta metas estratégicas às entregas em campo e confronta o avanço territorial com o desembolso contábil (Curva S), emitindo alertas preventivos de sobre-gasto e relatórios consolidados em uma única página para conselhos e financiadores.  
-* **Minha contribuição:** Concepção da metodologia de governança, fórmulas de descompasso orçamentário, padronização de rituais de acompanhamento e especificação do relatório executivo.  
-* **Competências:** Gestão de Projetos & PMO • Curva S & Custos • Desdobramento Estratégico • Prestação de Contas  
-👉 [Ver demonstração](https://thaycarv.github.io/radarsocial/)
+### Escuta • Inteligência de Voz do Cliente (VoC) e Causa Raiz
+
+Plataforma de melhoria contínua desenvolvida para conectar feedbacks multicanal aos registros reais de tempo e capacidade da operação.
+
+* **O Desafio Operacional:** Feedbacks dispersos em aplicativos, mensagens e pesquisas eram tratados como reclamações isoladas, gerando respostas reativas de atendimento sem atuar nos gargalos estruturais de produção e logística.
+* **Minhas decisões metodológicas:**
+  * **Captura Multicanal Unificada:** Centralização do recebimento de queixas preservando o relato original do cliente para não perder nuances do contexto.
+  * **Confronto Fato vs. Percepção:** Investigação lado a lado, cruzando o relato do usuário com os tempos reais registrados em cada etapa operacional (confirmação, preparo, espera e rota).
+  * **Matriz de Confiança & Rastreabilidade:** Estabelecimento de métricas de confiança explícitas para as sugestões analíticas, com histórico totalmente auditável para a coordenação.
+  * **Planos de Ação com Validação Dupla:** Vinculação das melhorias propostas tanto ao ganho de satisfação do cliente (CSAT/NPS) quanto à eficiência operacional comprovada em tempo de ciclo.
+* **Competências:** Voz do Cliente (VoC) • Análise de Causa Raiz • Gestão de Processos • Melhoria Contínua • Gestão de Indicadores  
+👉 [Acesse o ambiente interativo](https://thaycarv.github.io/escuta-operacoes)
+
+---
+
+### RadarSocial • Governança de Portfólio & Aferição Físico-Financeira
+
+Painel executivo criado para monitorar o ritmo de execução, a integridade da prestação de contas e o equilíbrio físico-financeiro em projetos socioambientais e iniciativas de inovação.
+
+* **O Desafio Operacional:** A desconexão histórica entre a contabilidade orçamentária e a entrega territorial concreta em projetos sociais, gerando sobre-gastos não previstos, esgotamento prematuro de verbas e prestação de contas morosa para conselhos e financiadores.
+* **Minhas decisões metodológicas:**
+  * **Aferição de Descompasso em Tempo Real (Curva S):** Aplicação das melhores práticas de fiscalização físico-financeira do setor público e fomento para confrontar o percentual físico realizado em campo contra o desembolso contábil acumulado, parametrizando semáforos preventivos de risco.
+  * **Desdobramento Estratégico Linear:** Conexão dos eixos estratégicos macro diretamente às iniciativas e às entregas ponderadas no território, garantindo visão 360° do portfólio.
+  * **Rituais Ágeis & 5W2H Humanizado:** Tradução da matriz de ação para termos em português claro (*O que, Por que, Onde, Quem, Prazo, Como, Quanto Custa*), orientando a resolução de bloqueios estritamente para ajustes de cronograma e logística.
+  * **Hub de Evidências & Relatório One-Pager:** Repositório centralizado de laudos e notas fiscais vinculado à emissão de um relatório oficial em exatamente uma página A4 para conselhos e auditoria.
+  * **Design Inclusivo & Acessibilidade:** Implementação de 3 temas visuais (Verde Institucional, Boho e Modo Escuro de alto contraste) e micro-ajudas conceituais para facilitar a leitura executiva.
+* **Competências:** Gestão de Projetos & PMO • Curva S & Custos • Governança de Portfólio • Prestação de Contas • Rituais de Acompanhamento  
+👉 [Acesse o ambiente interativo](https://thaycarv.github.io/radarsocial/)
 
 ---
 
