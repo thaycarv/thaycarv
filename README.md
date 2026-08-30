@@ -12,7 +12,7 @@ Florianópolis, SC | Brasil
 
 ## Sobre mim
 
-Sou **Engenheira de Produção** com atuação voltada para operações, gestão de processos, projetos, SLAs, indicadores de desempenho e implantação de sistemas.
+Sou **Engenheira de Produção** com atuação voltada para gestão de projetos, processos, operações, SLAs, indicadores de desempenho e implantação de sistemas.
 
 Minha trajetória passa por tecnologia, varejo, setor público e gestão operacional própria, sempre com foco em organizar fluxos de trabalho, eliminar gargalos e trazer previsibilidade para a operação.
 
@@ -26,10 +26,10 @@ Minha atuação é centrada na **engenharia de processos, modelagem de problemas
 Gestão de Projetos | Mapeamento de Processos | Melhoria Contínua | Backlog | KPIs e SLAs | Dashboards | Implantação de Sistemas
 
 **Métodos de gestão**  
-Scrum | Kanban | BPM | PDCA | 5W2H | Matriz de Priorização | Gestão de Riscos | Rastreabilidade de Requisitos
+Scrum | Kanban | BPM | PDCA | 5W2H | Curva S & EVM | Matriz de Priorização | Gestão de Riscos | Rastreabilidade de Requisitos
 
 **Ferramentas de trabalho**  
-Excel Avançado | PowerPoint | Trello | Jira | Zendesk | CRM | SQL | Power BI | GitHub
+Excel Avançado | PowerPoint | Trello | Jira | Zendesk | CRM | SQL | Power BI | GitHub (Issues & Pull Requests)
 
 **IA aplicada a operações**  
 Apoio Analítico à Tomada de Decisão | Prompting Estruturado | Diagnóstico de Gargalos | Triagem com Supervisão Humana (*Human-in-the-Loop*)
