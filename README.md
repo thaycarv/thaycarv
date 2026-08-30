@@ -38,7 +38,7 @@ Apoio Analítico à Tomada de Decisão | Prompting Estruturado | Diagnóstico de
 
 ## Projetos & Casos de Gestão
 
-Soluções que idealizei, estruturei e liderei ponta a ponta para resolver desafios práticos de governança de projetos, atendimento, implantação de software e rotinas operacionais.
+Soluções que idealizei, estruturei e liderei para resolver desafios práticos de governança de projetos, atendimento, implantação de software e rotinas operacionais.
 
 ---
 
@@ -50,37 +50,37 @@ Cockpit executivo desenhado para acompanhar o ritmo de execução e o equilíbri
 * **Minhas decisões metodológicas:**
   * **Aferição em Tempo Real (Curva S):** Aplicação de práticas de fiscalização físico-financeira para confrontar o avanço físico em campo contra o orçamento executado, com semáforos visuais de alerta preventivo.
   * **Desdobramento Estratégico Direto:** Conexão clara dos objetivos gerais às entregas práticas no território, garantindo visão integrada do portfólio.
-  * **Rituais Ágeis & 5W2H em Português:** Matriz de ação traduzida (*O que, Por que, Quem, Prazo, Como, Quanto*), focada em resolver atrasos e organizar o fluxo sem jargões desnecessários.
-  * **Hub de Evidências & Relatório One-Pager:** Repositório central de laudos e notas fiscais vinculado à emissão de um relatório oficial consolidado em uma única página A4 para auditoria.
+  * **Rituais Ágeis & 5W2H em Português:** Matriz de ação traduzida (*O que, Por que, Quem, Prazo, Como, Quanto*), focada em resolver atrasos e organizar o fluxo.
+  * **Hub de Evidências & Relatório One-Pager:** Repositório central de laudos e notas fiscais vinculado à emissão de um relatório oficial consolidado em uma única página para auditoria.
   * **Acessibilidade & Usabilidade:** Implementação de 3 temas visuais (Padrão, Boho e Modo Escuro de alto contraste) com botões de ajuda conceituais para facilitar a leitura executiva.
 * **Competências:** Gestão de Projetos & PMO • Curva S & Custos • Governança de Portfólio • Prestação de Contas • Rituais Ágeis  
 👉 [Acessar demonstração](https://thaycarv.github.io/radarsocial/)
 
 ---
 
-### Escuta • Inteligência de Voz do Cliente (VoC) e Causa Raiz
+### Escuta • Inteligência de Voz do Cliente (VoC)
 
 Plataforma desenvolvida para centralizar feedbacks multicanal, confrontar relatos com dados reais de processo e priorizar melhorias operacionais contínuas.
 
 * **O Desafio:** Reclamações que chegam por WhatsApp, aplicativos de entrega e pesquisas eram tratadas apenas como queixas isoladas, gerando respostas reativas sem identificar onde o fluxo de produção ou entrega realmente falhou.
 * **Minhas decisões metodológicas:**
   * **Captura Multicanal Unificada:** Centralização de feedbacks preservando o relato original do cliente para não perder nuances do contexto.
-  * **Confronto Fato vs. Percepção:** Investigação lado a lado, cruzando o relato do usuário com os tempos reais registrados em cada etapa operacional (confirmação, preparo e rota).
-  * **Histórico Auditável & Confiança:** Métricas explícitas para as sugestões analíticas, mantendo o histórico de apuração transparente para a liderança.
+  * **Confronto Fato vs. Percepção:** Cruza o relato do usuário com os tempos reais registrados em cada etapa operacional (confirmação, preparo e rota).
+  * **Histórico Auditável & Confiança:** Métricas explícitas para as sugestões analíticas, mantendo o histórico para a liderança.
   * **Planos de Ação Práticos:** Melhorias direcionadas tanto ao ganho de satisfação do cliente (CSAT/NPS) quanto à eficiência do tempo de processo da equipe.
 * **Competências:** Voz do Cliente (VoC) • Análise de Causa Raiz • Gestão de Processos • Melhoria Contínua • Indicadores Operacionais  
 👉 [Acessar demonstração](https://thaycarv.github.io/escuta-operacoes)
 
 ---
 
-### Implanta • Gestão de Onboarding & Implantação de Sistemas
+### Implanta • Gestão de Implantação de Sistemas
 
 Painel estruturado para acompanhar a jornada de novos clientes, desde a passagem comercial até a validação operacional e a transição segura para Customer Success.
 
 * **O Desafio:** A falta de alinhamento entre vendas, implantação e suporte causava perda de histórico técnico, retrabalho em parametrizações e viradas de chave com pendências críticas não resolvidas.
 * **Minhas decisões metodológicas:**
-  * **Jornada Estruturada em 9 Etapas:** Mapeamento do ciclo de implantação com critérios claros de entrada e saída para cada fase.
-  * **Rastreabilidade de Requisitos:** Conexão direta entre o escopo contratado e os testes de homologação, assegurando conformidade antes de avançar.
+  * **Jornada Estruturada em 9 Etapas:** Mapeamento do ciclo de implantação com critérios de entrada e saída para cada fase.
+  * **Rastreabilidade de Requisitos:** Conexão entre o escopo contratado e os testes de homologação, assegurando conformidade antes de avançar.
   * **Diagnóstico de Bloqueios:** Identificação visual imediata dos motivos de travamento em cada conta (cliente, produto, integração ou equipe).
   * **Gates de Go-live & Status Report:** Critérios determinísticos para liberação do sistema em produção e emissão de relatórios de status em um clique para a liderança.
 * **Competências:** Implantação de Software • Gestão de Projetos • Rastreabilidade de Escopo • Diagnóstico de Bloqueios • Gates de Go-live  
@@ -90,7 +90,7 @@ Painel estruturado para acompanhar a jornada de novos clientes, desde a passagem
 
 ### Prioriza • Triagem e Priorização Operacional de Demandas
 
-Sistema desenhado para eliminar a subjetividade na triagem de chamados, organizando filas de trabalho a partir de critérios claros de criticidade e SLAs.
+Sistema desenhado para eliminar a subjetividade na triagem de chamados, organizando filas de trabalho a partir de critérios de criticidade e SLAs.
 
 * **O Desafio:** A entrada despadronizada de solicitações por múltiplos canais sem dados mínimos gerava disputas constantes sobre urgências, sobrecarga da equipe e risco de subestimar incidentes graves.
 * **Minhas decisões metodológicas:**
