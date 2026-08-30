@@ -77,7 +77,18 @@ Protótipo funcional para centralização multicanal de Voz do Cliente (VoC), co
 * **Meu papel:** Estruturação da captura multicanal (WhatsApp, iFood, telefone e pesquisa), modelagem do confronto com tempos de etapa, governança da IA com confiança explícita e histórico auditável.
 * **Temas:** Voz do Cliente (VoC) | Análise de Causa Raiz | Gestão de Processos | Melhoria Contínua | CSAT e NPS
 
-🔗 **Acesse o protótipo:** [https://thaycarv.github.io/escuta-operacoes](https://thaycarv.github.io/escuta-operacoes)
+---
+
+### RadarSocial: Governança Estratégica & Aferição Físico-Financeira
+
+Protótipo funcional para desdobramento estratégico, controle de rituais ágeis e monitoramento contínuo de **descompasso físico-financeiro** em portfólios de impacto social e inovação.
+
+* **O que resolve:** Elimina o descompasso crônico entre o desembolso orçamentário e a entrega física real no território, garantindo previsibilidade para evitar o esgotamento prematuro de verbas e dando transparência à prestação de contas.
+* **Evolução do projeto:** Constrói a ponte entre a pesquisa acadêmica de impacto social, o rigor de fiscalização físico-financeira vivido no setor público/BNDES e a formação em IA do Google. Conta com Curva S analítica, 3 perfis visuais acessíveis (Padrão, Boho e Dark Mode), rituais 5W2H humanizados em português, repositório de evidências técnicas e emissão de Relatório Executivo oficial em 1 página (*One-Pager*) para conselhos e auditoria.
+* **Meu papel:** Concepção metodológica da governança, modelagem do cálculo de descompasso (avanço físico vs. desembolso contábil), padronização dos rituais de follow-up, definição das diretrizes éticas da IA e especificação do relatório executivo.
+* **Temas:** Gestão de Projetos | Governança de Portfólio | Curva S & EVM | Desdobramento Estratégico | Prestação de Contas & Auditoria
+
+🔗 **Acesse o protótipo:** [https://thaycarv.github.io/radarsocial/](https://thaycarv.github.io/radarsocial/)
 
 ---
 
@@ -85,3 +96,4 @@ Protótipo funcional para centralização multicanal de Voz do Cliente (VoC), co
 
 LinkedIn: https://www.linkedin.com/in/thaycc  
 GitHub: https://github.com/thaycarv  
+
