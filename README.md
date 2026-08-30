@@ -38,7 +38,7 @@ Apoio Analítico à Tomada de Decisão | Prompting Estruturado | Diagnóstico de
 
 ## Projetos & Casos de Gestão
 
-Soluções que idealizei, estruturei e liderei a concepção ponta a ponta para resolver desafios críticos de governança, triagem operacional, implantação de sistemas e acompanhamento físico-financeiro.
+Soluções que idealizei, estruturei e liderei a concepção com base nas minhas experiências profissionais para resolver desafios de governança, triagem operacional, implantação de sistemas e acompanhamento físico-financeiro.
 
 ---
 
@@ -59,7 +59,7 @@ Sistema desenhado para eliminar a subjetividade no atendimento a chamados operac
 
 ### Implanta • Gestão de Onboarding & Implantação Orientada a Valor
 
-Cockpit de acompanhamento projetado para conduzir a transição de novos clientes desde o fechamento comercial até o go-live e a passagem segura para a rotina de atendimento.
+Painel de controle gerencial projetado para conduzir a transição de novos clientes desde o fechamento comercial até o go-live e a passagem segura para a rotina de atendimento.
 
 * **O Desafio Operacional:** A falta de alinhamento entre as áreas de vendas, implantação e suporte causava perda frequente de contexto técnico, retrabalho em parametrizações e viradas de chave precipitadas com pendências críticas não resolvidas.
 * **Minhas decisões metodológicas:**
@@ -72,7 +72,7 @@ Cockpit de acompanhamento projetado para conduzir a transição de novos cliente
 
 ---
 
-### Escuta • Inteligência de Voz do Cliente (VoC) e Causa Raiz
+### Escuta • Inteligência de Voz do Cliente (VoC) 
 
 Plataforma de melhoria contínua desenvolvida para conectar feedbacks multicanal aos registros reais de tempo e capacidade da operação.
 
