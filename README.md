@@ -18,6 +18,16 @@ Experiência no acompanhamento simultâneo de múltiplos projetos de implantaç�
 
 ---
 
+## Projetos
+
+- [RadarSocial](https://github.com/thaycarv/radarsocial)
+- [RIL Projetos IA](https://github.com/thaycarv/ril-projetos-ia)
+- [Implanta Operações](https://github.com/thaycarv/implanta-operacoes)
+- [Prioriza Operações](https://github.com/thaycarv/prioriza-operacoes)
+- [Escuta Operações](https://github.com/thaycarv/escuta-operacoes)
+
+---
+
 ## Contato
 
 - **LinkedIn:** [linkedin.com/in/thaycc](https://www.linkedin.com/in/thaycc)
