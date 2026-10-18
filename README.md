@@ -12,7 +12,7 @@ Florianópolis/SC | Brasil
 
 ## Sobre mim
 
-Profissional multidisciplinar com formação em **Engenharia de Produção** e em **Nutrição**, atuando na gestão de projetos, processos e transformação digital, com foco em iniciativas de **impacto social, educação e sustentabilidade**.
+Sou profissional multidisciplinar com formação em **Engenharia de Produção** e em **Nutrição**, atuando na gestão de projetos, processos e transformação digital, com foco em iniciativas de **impacto social, educação e sustentabilidade**.
 
 Experiência no acompanhamento simultâneo de múltiplos projetos de implantação, monitoramento físico-financeiro e facilitação de rituais com equipes e clientes. Utilizo IA generativa na modelagem e prototipagem de ferramentas voltadas à governança de projetos e melhoria contínua de processos.
 
