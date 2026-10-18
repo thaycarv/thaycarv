@@ -2,7 +2,7 @@
 
 # Olá! Eu sou a Thayâne Carvalho 🌐🌱
 
-### Gestão de Projetos | Inovação Social | Transformação Digital | Governança
+### Gestão de Projetos | Inovação Social | Transformação Digital 
 
 Florianópolis/SC | Brasil
 
