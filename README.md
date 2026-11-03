@@ -20,12 +20,12 @@ Sou uma profissional multidisciplinar com formação em **Engenharia de Produç�
 
 ## 🚀 Projetos
 
-- [Painel Nutricional](https://painelnutricional.github.io/)
 - [RadarSocial](https://thaycarv.github.io/radarsocial/)
 - [RIL Projetos IA](https://thaycarv.github.io/ril-projetos-ia/)
 - [Implanta Operações](https://thaycarv.github.io/implanta-operacoes/)
 - [Prioriza Operações](https://thaycarv.github.io/prioriza-operacoes/)
 - [Escuta Operações](https://thaycarv.github.io/escuta-operacoes/)
+- [Painel Nutricional](https://painelnutricional.github.io/)
 
 ---
 
