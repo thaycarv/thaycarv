@@ -18,6 +18,16 @@ Sou uma profissional multidisciplinar com formação em **Engenharia de Produç�
 
 ---
 
+## 🚀 Projetos
+
+- [Painel Nutricional](https://painelnutricional.github.io/)
+- [RadarSocial](https://thaycarv.github.io/radarsocial/)
+- [RIL Projetos IA](https://thaycarv.github.io/ril-projetos-ia/)
+- [Implanta Operações](https://thaycarv.github.io/implanta-operacoes/)
+- [Prioriza Operações](https://thaycarv.github.io/prioriza-operacoes/)
+- [Escuta Operações](https://thaycarv.github.io/escuta-operacoes/)
+
+---
 
 ## 📬 Conecte-se comigo
 
@@ -26,5 +36,3 @@ Disponível para trocar ideias sobre gestão de projetos, produtos digitais, ino
 - 💼 **LinkedIn:** [linkedin.com/in/thaycc](https://www.linkedin.com/in/thaycc)
 - 🐙 **GitHub:** [github.com/thaycarv](https://github.com/thaycarv)
 - 📍 **Local:** Florianópolis, Santa Catarina - Brasil
-
-
