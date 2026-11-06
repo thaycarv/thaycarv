@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaycc)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thaycarv)
+[![Google AI](https://img.shields.io/badge/Google-AI%20Specialization-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/SRH9G8FLAUMM)
 [![Localização](https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Florian%C3%B3polis%20--%20SC-2e7d32?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
 </div>
@@ -18,14 +19,14 @@ Sou uma profissional multidisciplinar com formação em **Engenharia de Produç�
 
 ---
 
-## 🚀 Projetos
+## 👩🏽‍💻 Projetos
 
-- [RadarSocial](https://thaycarv.github.io/radarsocial/)
-- [RIL Projetos IA](https://thaycarv.github.io/ril-projetos-ia/)
-- [Implanta Operações](https://thaycarv.github.io/implanta-operacoes/)
-- [Prioriza Operações](https://thaycarv.github.io/prioriza-operacoes/)
-- [Escuta Operações](https://thaycarv.github.io/escuta-operacoes/)
-- [Painel Nutricional](https://painelnutricional.github.io/)
+- [RadarSocial](https://thaycarv.github.io/radarsocial/) — Acompanhamento de metas, rituais e controle físico-financeiro de projetos sociais.
+- [RIL Projetos IA](https://thaycarv.github.io/ril-projetos-ia/) — Acompanhamento de carteira e facilitação para governos municipais.
+- [Implanta Operações](https://thaycarv.github.io/implanta-operacoes/) — Painel para controle e acompanhamento de implantações operacionais.
+- [Prioriza Operações](https://thaycarv.github.io/prioriza-operacoes/) — Ferramenta para triagem, organização e priorização de demandas.
+- [Escuta Operações](https://thaycarv.github.io/escuta-operacoes/) — Análise de feedbacks e melhoria contínua de processos.
+- [Painel Nutricional](https://painelnutricional.github.io/) — Prontuário digital para organização de dados clínicos e atendimentos.
 
 ---
 
