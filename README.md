@@ -19,14 +19,13 @@ Sou uma profissional multidisciplinar com formação em **Engenharia de Produç�
 
 ---
 
-## 👩🏽‍💻 Projetos
+## 👩🏽‍💻 Projetos Principais em Destaque
 
-- [RadarSocial](https://thaycarv.github.io/radarsocial/) — Acompanhamento de metas, rituais e controle físico-financeiro de projetos sociais.
-- [RIL Projetos IA](https://thaycarv.github.io/ril-projetos-ia/) — Acompanhamento de carteira e facilitação para governos municipais.
-- [Implanta Operações](https://thaycarv.github.io/implanta-operacoes/) — Painel para controle e acompanhamento de implantações operacionais.
-- [Prioriza Operações](https://thaycarv.github.io/prioriza-operacoes/) — Ferramenta para triagem, organização e priorização de demandas.
-- [Escuta Operações](https://thaycarv.github.io/escuta-operacoes/) — Análise de feedbacks e melhoria contínua de processos.
-- [Painel Nutricional](https://painelnutricional.github.io/) — Prontuário digital para organização de dados clínicos e atendimentos.
+- [RadarSocial](https://thaycarv.github.io/radarsocial/) — Plataforma de governança estratégica, controle físico-financeiro (Curva S, rubricas e 5W2H) e aferição de impacto social.
+- [Prioriza Operações](https://thaycarv.github.io/prioriza-operacoes/) — Cockpit executivo para triagem, matriz de decisão e priorização de demandas operacionais.
+- [Escuta Operações](https://thaycarv.github.io/escuta-operacoes/) — Análise de Voz do Cliente (VOC), diagnóstico de causa raiz e melhoria contínua de processos.
+- [Painel Nutricional](https://painelnutricional.github.io/) — Prontuário clínico digital e leitor inteligente de questionários alimentares (100% Client-Side e LGPD por design).
+- [RIL Projetos IA](https://thaycarv.github.io/ril-projetos-ia/) — Acompanhamento de carteira e facilitação ágil para governos municipais.
 
 ---
 
