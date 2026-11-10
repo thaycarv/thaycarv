@@ -19,7 +19,7 @@ Sou uma profissional multidisciplinar com formação em **Engenharia de Produç�
 
 ---
 
-## 👩🏽‍💻 Projetos Principais em Destaque
+## 👩🏽‍💻 Projetos em Destaque
 
 ### 🌐 Ecossistema RadarSocial
 *Solução integrada para governança, operação e escuta em programas sociais e comunitários:*
