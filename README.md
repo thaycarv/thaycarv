@@ -28,8 +28,8 @@ Sou uma profissional multidisciplinar com formação em **Engenharia de Produç�
 - **[RadarSocial · Prioriza Operações](https://thaycarv.github.io/prioriza-operacoes/)** — Central de triagem rápida para classificar pedidos e emergências dos polos, direcionando cada caso para a fila e o prazo corretos.
 - **[RadarSocial · Escuta Operações](https://thaycarv.github.io/escuta-operacoes/)** — Ouvidoria ativa e canal de feedback dos usuários (WhatsApp, balcão e totens) para resolver insatisfações e melhorar os processos.
 
-### 🏛️ Gestão Pública & Cidades
-- **[GovProjetos IA](https://thaycarv.github.io/ril-projetos-ia/)** — Painel de acompanhamento de metas, entregas e projetos estratégicos voltado para a rotina de prefeituras e órgãos públicos.
+### 📊 Gestão de Portfólio & PMO
+- **[Portfólio Ágil IA](https://thaycarv.github.io/ril-projetos-ia/)** — Painel executivo de PMO para acompanhamento simultâneo de carteira multissetorial, marcos críticos de implantação e geração de relatórios de status com apoio de IA.
 
 ### 🥗 Saúde & Nutrição
 - **[Painel Nutricional](https://painelnutricional.github.io/)** — Prontuário digital e leitor de questionários alimentares para agilizar o diagnóstico e organizar o histórico de pacientes de forma simples e segura.
