@@ -21,11 +21,18 @@ Sou uma profissional multidisciplinar com formação em **Engenharia de Produç�
 
 ## 👩🏽‍💻 Projetos Principais em Destaque
 
-- [RadarSocial](https://thaycarv.github.io/radarsocial/) — Plataforma de governança estratégica, controle físico-financeiro (Curva S, rubricas e 5W2H) e aferição de impacto social.
-- [Prioriza Operações](https://thaycarv.github.io/prioriza-operacoes/) — Cockpit executivo para triagem, matriz de decisão e priorização de demandas operacionais.
-- [Escuta Operações](https://thaycarv.github.io/escuta-operacoes/) — Análise de Voz do Cliente (VOC), diagnóstico de causa raiz e melhoria contínua de processos.
-- [Painel Nutricional](https://painelnutricional.github.io/) — Prontuário clínico digital e leitor inteligente de questionários alimentares (100% Client-Side e LGPD por design).
-- [RIL Projetos IA](https://thaycarv.github.io/ril-projetos-ia/) — Acompanhamento de carteira e facilitação ágil para governos municipais.
+### 🌐 Ecossistema RadarSocial
+*Solução integrada para governança, operação e escuta em programas sociais e comunitários:*
+
+- **[RadarSocial · Governança e Portfólio](https://thaycarv.github.io/radarsocial/)** — Gestão física e financeira de projetos, controle de orçamento e prazos, e medição de impacto social nos polos.
+- **[RadarSocial · Prioriza Operações](https://thaycarv.github.io/prioriza-operacoes/)** — Central de triagem rápida para classificar pedidos e emergências dos polos, direcionando cada caso para a fila e o prazo corretos.
+- **[RadarSocial · Escuta Operações](https://thaycarv.github.io/escuta-operacoes/)** — Ouvidoria ativa e canal de feedback dos usuários (WhatsApp, balcão e totens) para resolver insatisfações e melhorar os processos.
+
+### 🏛️ Gestão Pública & Cidades
+- **[GovProjetos IA](https://thaycarv.github.io/ril-projetos-ia/)** — Painel de acompanhamento de metas, entregas e projetos estratégicos voltado para a rotina de prefeituras e órgãos públicos.
+
+### 🥗 Saúde & Nutrição
+- **[Painel Nutricional](https://painelnutricional.github.io/)** — Prontuário digital e leitor de questionários alimentares para agilizar o diagnóstico e organizar o histórico de pacientes de forma simples e segura.
 
 ---
 
