@@ -32,7 +32,7 @@ Sou uma profissional multidisciplinar com formação em **Engenharia de Produç�
 - **[Portfólio Ágil IA](https://thaycarv.github.io/ril-projetos-ia/)** — Painel executivo de PMO para acompanhamento simultâneo de carteira multissetorial, marcos críticos de implantação e geração de relatórios de status com apoio de IA.
 
 ### 🥗 Saúde & Nutrição
-- **[Painel Nutricional](https://painelnutricional.github.io/)** — Prontuário digital e leitor de questionários alimentares para agilizar o diagnóstico e organizar o histórico de pacientes de forma simples e segura.
+- **[Painel Nutricional](https://painelnutricional.github.io/)** — Plataforma de análise de dados clínicos que processa respostas de questionários enviados pelos pacientes, categoriza informações por tema, gera análises comparativas de evolução ao longo do acompanhamento e alertas de atenção.
 
 ---
 
