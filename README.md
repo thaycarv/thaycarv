@@ -24,15 +24,15 @@ Sou uma profissional multidisciplinar com formação em **Engenharia de Produç�
 ### 🌐 Ecossistema RadarSocial
 *Solução integrada para governança, operação e escuta em programas sociais e comunitários:*
 
-- **[RadarSocial · Governança e Portfólio](https://thaycarv.github.io/radarsocial/)** — Gestão física e financeira de projetos, controle de orçamento e prazos, e medição de impacto social nos polos.
-- **[RadarSocial · Prioriza Operações](https://thaycarv.github.io/prioriza-operacoes/)** — Central de triagem rápida para classificar pedidos e emergências dos polos, direcionando cada caso para a fila e o prazo corretos.
-- **[RadarSocial · Escuta Operações](https://thaycarv.github.io/escuta-operacoes/)** — Ouvidoria ativa e canal de feedback dos usuários (WhatsApp, balcão e totens) para resolver insatisfações e melhorar os processos.
+- **[RadarSocial · Governança e Portfólio](https://thaycarv.github.io/radarsocial/):** Gestão física e financeira de projetos, controle de orçamento e prazos, e medição de impacto social nos polos.
+- **[RadarSocial · Prioriza Operações](https://thaycarv.github.io/prioriza-operacoes/):** Central de triagem rápida para classificar pedidos e emergências dos polos, direcionando cada caso para a fila e o prazo corretos.
+- **[RadarSocial · Escuta Operações](https://thaycarv.github.io/escuta-operacoes/):** Ouvidoria ativa e canal de feedback dos usuários (WhatsApp, balcão e totens) para resolver insatisfações e melhorar os processos.
 
 ### 📊 Gestão de Portfólio & PMO
-- **[Portfólio Ágil IA](https://thaycarv.github.io/ril-projetos-ia/)** — Painel executivo de PMO para acompanhamento simultâneo de carteira multissetorial, marcos críticos de implantação e geração de relatórios de status com apoio de IA.
+- **[Portfólio Ágil IA](https://thaycarv.github.io/ril-projetos-ia/):** Painel executivo de PMO para acompanhamento simultâneo de carteira multissetorial, marcos críticos de implantação e geração de relatórios de status com apoio de IA.
 
 ### 🥗 Saúde & Nutrição
-- **[Painel Nutricional](https://painelnutricional.github.io/)** — Plataforma de análise de dados clínicos que processa respostas de questionários enviados pelos pacientes, categoriza informações por tema, gera análises comparativas de evolução ao longo do acompanhamento e alertas de atenção.
+- **[Painel Nutricional](https://painelnutricional.github.io/):** Plataforma de análise de dados clínicos que processa respostas de questionários enviados pelos pacientes, categoriza informações por tema, gera análises comparativas de evolução ao longo do acompanhamento e alertas de atenção.
 
 ---
 
